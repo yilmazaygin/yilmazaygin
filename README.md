@@ -9,7 +9,7 @@ I also admire the beauty of **Assembly** applications.
 I enjoy designing **architectures**, building **systems from the ground up**, and bringing **order out of complexity**—not merely writing code but crafting robust foundations.
 
 ## Currently Working On
-- Designing and building my own physical **16-bit breadboard computer**, including crafting a **custom Hish Level language & its own Assembly language** for it.
+- Designing and building my own physical **16-bit breadboard computer**, including crafting a **custom High Level language & its own Assembly language** for it.
 
 ## Currently Learning
 - **Domain Driven Design (DDD)** — refining my architectural mindset for scalable, maintainable systems.
