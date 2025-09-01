@@ -1,16 +1,21 @@
-## Hi there 👋
+#  True complexity lies in achieving simplicity.
 
-<!--
-**yilmazaygin/yilmazaygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a computer scientist with a deep passion for exploring both **low-level computing** and **high-level abstractions**.  
+My journey is rooted in **C** — a language at the heart of my work and one that fuels my curiosity for how computers truly operate.  
+Alongside C, I work with **Python** (with libraries such as `async`, `dataclasses`, and `abstract base classes`), as well as **Flask**, **Django**, and **Linux**.
+I also admire the beauty of **Assembly** applications.
 
-Here are some ideas to get you started:
+I enjoy designing **architectures**, building **systems from the ground up**, and bringing **order out of complexity**—not merely writing code but crafting robust foundations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Designing and building my own physical **16-bit breadboard computer**, including crafting a **custom Hish Level language & its own Assembly language** for it.
+
+## Currently Learning
+- **Domain Driven Design (DDD)** — refining my architectural mindset for scalable, maintainable systems.
+
+## Selected Projects
+- [why-gamblers-lose](https://github.com/yilmazaygin/why-gamblers-lose)
+
+*Please note that my github is under renovation for better branding.*
+*I'll start to share and contribute more as soon as possible.*
