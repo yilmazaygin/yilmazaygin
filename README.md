@@ -16,6 +16,9 @@ I enjoy designing **architectures**, building **systems from the ground up**, an
 
 ## Selected Projects
 - [why-gamblers-lose](https://github.com/yilmazaygin/why-gamblers-lose)
+- *(Projects will be shared gradually as I re-organize my repositories.)*
 
-*Please note that my github is under renovation for better branding.*
-*I'll start to share and contribute more as soon as possible.*
+## Important Note
+My GitHub profile is currently being **restructured for better branding and clarity**.  
+Repositories are being revised and will be made public step by step as I refine and document them.  
+Stay tuned for upcoming projects!
